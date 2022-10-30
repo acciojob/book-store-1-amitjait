@@ -1,5 +1,7 @@
 package com.driver;
 
+import org.springframework.stereotype.Component;
+
 public class Book {
     
      private int id;
